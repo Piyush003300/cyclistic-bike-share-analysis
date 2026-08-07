@@ -4,7 +4,8 @@
 
 Cyclistic is a fictional bike-share company operating in Chicago (based on the real-world Divvy bike-share system). This project analyzes 12 months of historical trip data to understand how annual members and casual riders use Cyclistic bikes differently — insight the marketing team can use to design a campaign converting casual riders into annual members.
 
-**Screenshort** [screenshot.jpg]
+**Screenshort**
+![Cyclistic Dashboard](screenshot.jpg)
 
 ## Business Task
 
